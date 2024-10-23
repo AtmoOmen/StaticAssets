@@ -6175,7 +6175,7 @@
           "Y": 51.163284,
           "Z": 71.00001
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6184,7 +6184,7 @@
           "Y": 20.621214,
           "Z": 416.0
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6193,16 +6193,7 @@
           "Y": -170.00003,
           "Z": -379.0
         },
-        "CancelAnimation": true
-      },
-      {
-        "Zone": 613,
-        "Position": {
-          "X": 121.00001,
-          "Y": 3.0978942,
-          "Z": 586.00006
-        },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6211,7 +6202,7 @@
           "Y": 1.5743256,
           "Z": 506.00006
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6220,7 +6211,7 @@
           "Y": 2.1862254,
           "Z": 861.00006
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6229,7 +6220,7 @@
           "Y": 0.858002,
           "Z": -644.0
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6238,7 +6229,7 @@
           "Y": 0.8050942,
           "Z": -724.0
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6247,7 +6238,7 @@
           "Y": -0.13289392,
           "Z": 140.99998
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6256,7 +6247,7 @@
           "Y": -172.0,
           "Z": 236.00006
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6265,7 +6256,7 @@
           "Y": 17.616285,
           "Z": -779.0
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6274,7 +6265,7 @@
           "Y": 2.0032248,
           "Z": -544.0
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6283,7 +6274,7 @@
           "Y": 1.6400434,
           "Z": -18.999958
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
       },
       {
         "Zone": 613,
@@ -6292,7 +6283,16 @@
           "Y": 64.51859,
           "Z": -173.99998
         },
-        "CancelAnimation": true
+        "CancelAnimation": false
+      },
+      {
+        "Zone": 613,
+        "Position": {
+          "X": 121.00001,
+          "Y": 3.0978942,
+          "Z": 586.00006
+        },
+        "CancelAnimation": false
       }
     ],
     "401": [
