@@ -8025,11 +8025,11 @@
     {
       "Zone": 1188,
       "Position": {
-        "X": 751.0,
-        "Y": 9.85731,
-        "Z": -214.0
+        "X": 765.14,
+        "Y": 11.92,
+        "Z": -57.00
       },
-      "CancelAnimation": true
+      "CancelAnimation": false
     },
     {
       "Zone": 1188,
