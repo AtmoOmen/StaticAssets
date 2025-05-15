@@ -5131,8 +5131,8 @@
                   {
                     "Map": 17,
                     "Terri": 137,
-                    "xCoord": 18.9,
-                    "yCoord": 26.2,
+                    "xCoord": 18.0,
+                    "yCoord": 26.4,
                     "Zone": 0
                   }
                 ],
@@ -11413,8 +11413,8 @@
                   {
                     "Map": 17,
                     "Terri": 137,
-                    "xCoord": 17.3,
-                    "yCoord": 27.0,
+                    "xCoord": 18.0,
+                    "yCoord": 26.4,
                     "Zone": 0
                   }
                 ],
@@ -12700,7 +12700,7 @@
                     "Map": 17,
                     "Terri": 137,
                     "xCoord": 18.0,
-                    "yCoord": 26.0,
+                    "yCoord": 26.4,
                     "Zone": 0
                   }
                 ],
