@@ -2656,7 +2656,7 @@
               {
                 "Count": 3,
                 "Icon": 63051,
-                "Id": 248,
+                "Id": 2155,
                 "Locations": [
                   {
                     "Map": 23,
@@ -12151,8 +12151,8 @@
                   {
                     "Map": 21,
                     "Terri": 141,
-                    "xCoord": 19.1,
-                    "yCoord": 16.5,
+                    "xCoord": 16.0,
+                    "yCoord": 14.0,
                     "Zone": 0
                   }
                 ],
